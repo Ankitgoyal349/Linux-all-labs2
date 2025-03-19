@@ -17,10 +17,6 @@ awk → A text-processing tool used to filter and format output.
 cut -f2- → Extracts specific fields from text (used to get OS name).
 
 
-Snippets:
-![WhatsApp Image 2025-03-19 at 21 26 36_70758b01](https://github.com/user-attachments/assets/c5bb4549-6d7a-474e-8df4-125c7b51487e)
-
-![WhatsApp Image 2025-03-19 at 21 26 38_4f18e73d](https://github.com/user-attachments/assets/8a6c330e-c7b1-465f-b2f7-2a2d9e07c57b)
 
 
 Step2:
@@ -33,11 +29,6 @@ bc → A command-line calculator for floating-point arithmetic.
 chmod +x filename → Makes a file executable.
 ./filename.sh → Runs a shell script.
 
-
-Snippets:
-![WhatsApp Image 2025-03-19 at 21 26 37_cf4769b6](https://github.com/user-attachments/assets/6a09cf5d-6922-4dbd-963b-57360cc0e57c)
-
-![WhatsApp Image 2025-03-19 at 21 26 38_a891d61b](https://github.com/user-attachments/assets/936ae1c2-aa96-42a9-b7b0-ddd2935d0dca)
 
 
 Conclusion:
