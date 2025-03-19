@@ -75,16 +75,6 @@ sudo chown operator1:operator2 testfile.txt
 chmod 750 testfile.txt
 
 
-Snippets:
-![WhatsApp Image 2025-03-19 at 21 02 36_9fa8007e](https://github.com/user-attachments/assets/cddf7271-29a6-4998-a7a8-3b28c60f3af8)
-
-![WhatsApp Image 2025-03-19 at 21 02 45_54b49903](https://github.com/user-attachments/assets/f1ce0055-8e49-44c0-a97a-9800f55f05d7)
-
-![WhatsApp Image 2025-03-19 at 21 02 54_a122dd21](https://github.com/user-attachments/assets/f44a4458-95ae-44f3-ac8d-a2978267653d)
-
-![WhatsApp Image 2025-03-19 at 21 16 26_139f6562](https://github.com/user-attachments/assets/7a4a223d-a476-4108-abb9-ef0ed63f0493)
-
-
 Conclusion:
 In this lab, you practiced:
 
