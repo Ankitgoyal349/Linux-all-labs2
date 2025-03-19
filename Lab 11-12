@@ -19,8 +19,6 @@ sudo useradd operator34
 Verify user creation:
 grep operator34 /etc/passwd
 
-Snippets:
-![WhatsApp Image 2025-03-19 at 20 37 49_6e8b3f22](https://github.com/user-attachments/assets/cc3e1d33-b0a3-440e-98da-f26aadac567b)
 
 
 Step2:
@@ -42,8 +40,6 @@ sudo usermod -c "Operator Level 1" operator34
 Verify updated user information:
 grep operator1 /etc/passwd
 
-Snippets:
-![WhatsApp Image 2025-03-19 at 20 37 49_83f37f62](https://github.com/user-attachments/assets/8d21f14a-7714-4560-85f7-cfa41614c8b3)
 
 
 Step4:
@@ -57,8 +53,6 @@ Verify user removal:
 grep operator3 /etc/passwd
 
 
-Snippets:
-![WhatsApp Image 2025-03-19 at 20 37 50_e7c75a9e](https://github.com/user-attachments/assets/d602f4b6-8239-41a1-a641-e41370b64e64)
 
 
 Step4:
